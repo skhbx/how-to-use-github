@@ -1,0 +1,16 @@
+1.按下 Shift+/ 的快捷键，将会出现如下图的弹出框。
+2.Github与谷歌一样，也有自己的搜索语法，这里为大家整理了一些常见的语法，想了解更详细的，可以去查看官方文档。
+按编程语言搜索， xxx language:java
+按文件或路径搜索，xxx in:readme
+按文件大小搜索，xxx size:>100
+按地域搜索， xxx location:chengdu
+按是否fork过搜索，xxx fork:true
+按照拥有者或者组织搜索，xxx user:yrzx404 或者 xxx org:github
+按stars数量搜索，xxx stars:>1000
+按主题搜索，xxx topic:java
+
+
+作者：忆蓉之心
+链接：https://zhuanlan.zhihu.com/p/56665227
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
